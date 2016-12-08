@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="build/" main="BasicSnake" manifest="" root="" work="">
+    <createjar file="BasicSnake.jar" flags="7"/>
+    <source>
+      <file active="true" name="BasicSnake.java" package="" timestamp="30-Nov-2016 23:50:09">
+        <select from="1017" to="1017"/>
+        <scroll column="294" row="0"/>
+      </file>
+      <file name="Ticker.java" package="" timestamp="26-Nov-2016 00:34:11">
+        <select from="1017" to="1017"/>
+        <scroll column="294" row="0"/>
+      </file>
+      <file name="Block.java" package="" timestamp="26-Nov-2016 00:34:14">
+        <select from="1017" to="1017"/>
+        <scroll column="294" row="0"/>
+      </file>
+      <file name="Listener.java" package="" timestamp="26-Nov-2016 11:20:56">
+        <select from="1017" to="1017"/>
+        <scroll column="294" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
